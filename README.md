@@ -14,4 +14,4 @@ Assumption Summary
 
 4.	The input gathering and the function execution are separated to make the code more modular and readable.
 
-![image](https://github.com/JoshOluTest/2iCodeChallenge/assets/147823555/787d6c1f-52bb-4206-9e2d-b4ffa0e10a6b)
+
